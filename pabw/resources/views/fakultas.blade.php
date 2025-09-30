@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Daftar Fakultas - Telkom University</title>
+    <title>Daftar Fakultas - Universitas Brawijaya</title>
     <style>
         table { border-collapse: collapse; }
         th, td { border: 1px solid #333; padding: 4px 12px; }
@@ -28,4 +28,4 @@
         </tbody>
     </table>
 </body>
-</html>
+</html> -->
